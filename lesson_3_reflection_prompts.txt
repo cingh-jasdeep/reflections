@@ -14,3 +14,7 @@ branches help create labelled commits in a repository
 when cloning repositories on github servers we should use forks
 when copying repositories locally or between local and remote we should use clones
 when creating a labelled commit we should use branches
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+benefit for having a copy of last known state of remote is that one can build upon that state locally
+and merge later when online.
