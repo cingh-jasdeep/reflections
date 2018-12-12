@@ -23,3 +23,8 @@ branches help save the state of the software code at a particular point and work
 
 How do the diagrams help you visualize the branch structure?
 diagrams help visualize the branch structure by placing commits on a timeline and drafting multilinear commit logs.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+merging two branches merges their commits by comparing their commits to their common parent in log.
+this branching is represented in diagram to show appropriate parent commits to each commit.
