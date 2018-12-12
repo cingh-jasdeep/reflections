@@ -18,3 +18,7 @@ when creating a labelled commit we should use branches
 What is the benefit of having a copy of the last known state of the remote stored locally?
 benefit for having a copy of last known state of remote is that one can build upon that state locally
 and merge later when online.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+collaborate withou git or github could be done by one manager manually checking for changes in each collaboraters files.
+using git or github is infinitely easier to collaborate.
